@@ -1,4 +1,4 @@
-# Trabajo1
+# Portfolio
 
 1. ***Tus expectativas antes de aprender POO. Qué creías que ibas a aprender y para qué creías que iba a servir lo que ibas a ver sobre este tema***
 
@@ -7,3 +7,5 @@
     Creía que esta programación estaba sobretodo orientada a proyectos muy grandes más parecidos a los videojuegos.
 
 2. ***Qué has aprendido durante las dos unidades***
+
+    

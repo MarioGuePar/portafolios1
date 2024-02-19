@@ -8,4 +8,8 @@
 
 2. ***Qué has aprendido durante las dos unidades***
 
+    En resumidas cuentas he aprendido POO, pero lo más importante es que he aprendido a pensar en los objetos de los programas
+    casi como programas por separado y me estoy adaptando a ello muy rapido.
+3. ***Elige dos ejercicios de las prácticas que te hayan sido, para ti, los más importantes. Indica por qué y explica cómo lo has resuelto u lo que has aprendido con ellos***
     
+4. ***Explica tus conclusiones en este momento sobre estas dos unidades: Qué has aprendido realmente, qué utilidad le ves y di lo más positivo que has adquirido en estas dos unidades y lo que menos te ha gustado.***

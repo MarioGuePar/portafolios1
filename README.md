@@ -20,4 +20,6 @@
     
 4. ***Explica tus conclusiones en este momento sobre estas dos unidades: Qué has aprendido realmente, qué utilidad le ves y di lo más positivo que has adquirido en estas dos unidades y lo que menos te ha gustado.***
 
-    
+    Creo que en estas dos ultimas unidades nos hemos acercado la programación actual y me gusta pensar que he aprendido a pensar como un verdadero programador
+    y gracias a ello voy a poder dedicarme a esto en el futuro sin que todos los programas sean tan parecidos, al contrario de antes. Personalmente, lo que más me ha gustado
+    ha sido lo sencilla que ha sido la teoría y lo que menos me ha gustado es el hecho que estuviesemos tantos días repitiendo la teoría a más no poder.
